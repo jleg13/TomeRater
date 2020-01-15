@@ -7,5 +7,8 @@ Command-line program to simulate a book review application. This project was my 
 - OOP
 - Inheritance
 - regex(for email verification)
+
+##Demo:
+
 [![Run on Repl.it](https://repl.it/badge/github/jleg13/TomeRater)](https://repl.it/github/jleg13/TomeRater)
 
